@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="ctato1" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **ANGULAR**
 
 - 👨‍💻 My projects are available at [https://portfolio-69h.pages.dev/](https://portfolio-69h.pages.dev/)
 
-- 💬 Ask me about **react, JavaScript, Redux, HTML, CSS**
+- 💬 Ask me about **react, JavaScript, Redux, HTML, CSS, TypeScript**
 
 - 📫 How to reach me **tatodznel@gmail.com**
 
